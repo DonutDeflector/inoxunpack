@@ -130,10 +130,10 @@ Install Guide:
 
 presets = {
     'https-everywhere': 'gcbommkclmclpchllfjekcdonpmejbdp',
-    'lightouse': 'blipmdconlkpinefehnmjammfjpmpbjk',
+    'lighthouse': 'blipmdconlkpinefehnmjammfjpmpbjk',
     'postman': 'fhbjgbiflinjbdggehcddcbncdddomop',
     'privacy-badger': 'pkehgijcmpdhfbdbbnkijodmdjhbjlgp',
-    'res': 'plbnhecilibklagjlonpjfenmfmnfjcp',
+    'res': 'kbmfpngjjgdllneeigpgjifpgocmfgmb',
     'ublock-origin': 'cjpalhdlnbpafiamejdnhcphjbkeiagm',
     'umatrix': 'ogfcmafjalglgifnmanfmnieipoejdcf',
     'scriptsafe': 'oiigbmnaadbkfbmpbfijlflahbdbdgdf'
