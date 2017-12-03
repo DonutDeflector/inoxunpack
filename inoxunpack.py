@@ -136,7 +136,7 @@ presets = {
     'res': 'plbnhecilibklagjlonpjfenmfmnfjcp',
     'ublock-origin': 'cjpalhdlnbpafiamejdnhcphjbkeiagm',
     'umatrix': 'ogfcmafjalglgifnmanfmnieipoejdcf',
-    'scriptsafe': 'oiigbmnaadbkfbmpbfijlflahbdbdgdf',
+    'scriptsafe': 'oiigbmnaadbkfbmpbfijlflahbdbdgdf'
 }
 
 default_target_path = '~/.inoxunpack/'
