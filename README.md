@@ -4,7 +4,7 @@ this makes it possible to install extensions offline via developer mode.
 
 ### Example
 ```
-$ git clone https://github.com/gcarq/inoxunpack.git
+$ git clone https://github.com/DonutDeflector/inoxunpack.git
 $ cd inoxunpack
 $ ./inoxunpack.py ublock-origin
 ```
@@ -18,7 +18,7 @@ Chromium extension downloader
 positional arguments:
   extension             extension_id or preset (available presets are: [https-
                         everywhere, postman, ublock-origin, umatrix,
-                        scriptsafe])
+                        scriptsafe, res, lighthouse, privacy badger])
 
 optional arguments:
   -h, --help            show this help message and exit
